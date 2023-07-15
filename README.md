@@ -30,10 +30,10 @@ This template comes with the following features:
 ## Linting and formatting scripts
 - `typecheck` – checks TypeScript types
 - `lint` – runs ESLint
+- `format` – formats all files with Prettier
 - `format:check` – checks files with Prettier
 
 ### Other scripts
 
 - `storybook` – starts storybook dev server
 - `storybook:build` – build production storybook bundle to `storybook-static`
-- `format` – formats all files with Prettier
