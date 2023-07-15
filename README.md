@@ -23,11 +23,14 @@ This template comes with the following features:
 
 ### Testing scripts
 
+- `test` – runs `jest`.
+- `test:watch` – runs `jest` in watch mode
+
+
+## Linting and formatting scripts
 - `typecheck` – checks TypeScript types
 - `lint` – runs ESLint
 - `format:check` – checks files with Prettier
-- `test` – runs `jest`.
-- `test:watch` – runs `jest` in watch mode
 
 ### Other scripts
 
